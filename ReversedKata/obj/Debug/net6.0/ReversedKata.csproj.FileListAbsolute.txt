@@ -1,0 +1,15 @@
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\bin\Debug\net6.0\ReversedKata.exe
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\bin\Debug\net6.0\ReversedKata.deps.json
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\bin\Debug\net6.0\ReversedKata.runtimeconfig.json
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\bin\Debug\net6.0\ReversedKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\bin\Debug\net6.0\ReversedKata.pdb
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\ReversedKata.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\ReversedKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\ReversedKata.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\ReversedKata.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\ReversedKata.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\ReversedKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\refint\ReversedKata.dll
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\ReversedKata.pdb
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\ReversedKata.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Documents\Coding\Derivco Kata Exercises\ReversedKata\ReversedKata\obj\Debug\net6.0\ref\ReversedKata.dll
